@@ -4,7 +4,7 @@ using System.Collections;
 public class SliceView : MonoBehaviour 
 {
 
-	public string independantVariable
+	public string independantVariable;
 	public string dependantVariable;
 	public int year;
 
